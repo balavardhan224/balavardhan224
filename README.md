@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balavardhan Reddy Malyala</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balavardhan224&label=Profile%20views&color=0e75b6&style=flat" alt="balavardhan224" /> </p>
 
@@ -7,21 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS, Flutter**
+- 📫 How to reach me **m.balreddy24@gmail.com**
 
-- 👯 I’m looking to collaborate on **React & Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/balavardhan224?tab=repositories](https://github.com/balavardhan224?tab=repositories)
-
-- 💬 Ask me about **Flutter, React, Firebase, dart, python, SQL, Java, C**
-
-- 📫 How to reach me **balavardhanrdy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mBEQQmgpRpXrWd-zwTGS_6wdOkQkTme-/view?usp=share_link](https://drive.google.com/file/d/1mBEQQmgpRpXrWd-zwTGS_6wdOkQkTme-/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/balavardhan reddy malyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balavardhan reddy malyala" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/balavardhan reddy malyala](https://www.linkedin.com/in/balavardhan-reddy-malyala-99261817b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balavardhan reddy malyala" height="30" width="40" /></a>
 <a href="https://instagram.com/balavardhan__rdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balavardhan__rdy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/balavardhan224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="balavardhan224" height="30" width="40" /></a>
 </p>
